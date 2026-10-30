@@ -109,4 +109,5 @@ student-performance-analyzer/
 ## License
 
 Code: MIT (see `LICENSE`). The dataset belongs to its authors; see the UCI page for its terms.
+Data: Cortez, P. (2014). Student Performance. UCI Machine Learning Repository. https://doi.org/10.24432/C5TG7T (CC BY 4.0).
 
