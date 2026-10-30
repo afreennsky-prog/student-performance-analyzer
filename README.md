@@ -2,9 +2,6 @@
 
 Can we predict a student's final math grade, and how much of that prediction comes only from earlier grades? A small, reproducible analysis of the UCI *Student Performance* dataset using pandas and scikit-learn.
 
-<!-- TODO: replace the line below with your own screenshot, e.g. !\[Notebook screenshot](reports/figures/notebook\_screenshot.png) -->
-
-**Screenshot:** *add a screenshot of the notebook or a key figure here before publishing.*
 
 ## Problem
 
